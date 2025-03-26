@@ -1,4 +1,10 @@
+html {
+    background: url(https://images7.alphacoders.com/348/348171.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
 body {
     color: rgb(148, 193, 231);
-    background-image: url(https://get.wallhere.com/photo/music-blue-concerts-light-performance-stage-concert-computer-wallpaper-rock-concert-251903.jpg);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
 }
